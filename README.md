@@ -1,10 +1,7 @@
-### Hi there 👋
+Afton Buckland: Adbuckland@my.waketech.edu
 
-<!--
-**AftonBuckland/AftonBuckland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the start of my GitHub account
 
-Here are some ideas to get you started:
+The repository i created only has this file on it
 
-- 🔭 I’m currently working on My Degree in computer science
-- 🌱 I’m currently learning Virtual Machines
-- 😄 Pronouns: Normal
+to clone the repository onto my local machine i only had to select the repository to be cloned, select where i wanted the clone to be, and cloned it
